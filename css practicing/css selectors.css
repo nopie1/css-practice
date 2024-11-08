@@ -1,0 +1,40 @@
+*{
+    background-color: aqua;
+}
+#h1{
+    color: black;
+    margin-left: 200px;
+
+}
+#h11{
+color: black;
+margin-left: 100px;
+}
+
+#li1{
+color: red;
+font-weight: bold;
+
+}
+
+#li2{
+    font-weight: bold;
+}
+
+#li3{
+    color: green;
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+#li4{
+    color: blue;
+    font-weight: bold;
+}
+
+#li55{
+    font: bold;
+    margin-left: 150px;
+    font-weight: bold;
+}
+
