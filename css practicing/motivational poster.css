@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: medium;
+}
+
+#poster{
+    
+    width: 50%;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.pic{
+    border: 5px solid white;
+    width:100%;;
+}
