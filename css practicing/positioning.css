@@ -1,0 +1,19 @@
+#rec{
+    background-color: blue;
+    width: 500px;
+    height: 300px;
+    position:absolute;
+    left: 300px;
+    top: 200px;
+    
+}
+
+#circle{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    position: absolute;
+    top: 150px;
+    left: 250px;
+}
