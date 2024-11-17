@@ -1,0 +1,47 @@
+*{
+    margin: 0% ;
+}
+
+#red{
+    background-color: red;
+    width: 250px;
+    height: 75px;
+   text-transform: uppercase;
+   color: white;
+   position: relative;
+   left: 10px;
+}
+#red p{
+    position: absolute;
+    left: 70px;
+}
+
+#white div  {
+    width: 100px;
+    height: 90px;
+    background-color: white;
+    position: relative;
+    left: 80px;
+    bottom: 15px;
+    top: 15px;
+    border-radius: 50%;
+    
+
+}
+
+
+#white{
+    width: 250px;
+    height: 120px;
+    background-color: #002868;
+    position: relative;
+    left: 10px;
+}
+
+#white div p{
+    color: black;
+text-transform: uppercase;
+  position: relative;
+  top: 15px;
+  left: 30px;
+}
