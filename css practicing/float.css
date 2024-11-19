@@ -1,0 +1,32 @@
+*{
+  margin: 0%;
+  color: white;
+  text-transform: uppercase;
+}
+
+
+#pic1{
+  background-color: green;
+  float: left;
+  height: 450px;
+  width: 550px;
+}
+
+#pic2{
+  background-color: rgb(128, 0, 58);
+
+  float: right;
+height: 450px;
+width: 550px;
+}
+
+img{
+  float: left;
+}
+
+
+#copyright{
+background-color: blue;
+text-align: center;
+clear: both;
+}
