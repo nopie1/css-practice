@@ -1,0 +1,16 @@
+body{
+
+}
+
+@media (min-width: 600px) and (max-width: 900px) {
+    body {
+      background-color: orange;
+    }
+  }
+
+
+  @media (min-width: 0px) and (max-width: 590px){
+    body{
+        background-color: brown;
+    }
+  }
