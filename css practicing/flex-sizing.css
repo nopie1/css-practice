@@ -1,0 +1,52 @@
+*{
+ 
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+}
+
+.container{
+
+    flex-direction: row;
+   display: flex;
+    border: 10px solid gold;
+    gap: 5px
+    ;
+
+
+
+
+
+}
+
+#home{
+    background-color: aqua;
+    flex-basis: 200px;
+    
+ 
+}
+
+#about{
+    background-color: blueviolet;
+    flex-basis: 200px;
+    
+}
+
+#contact {    flex-basis: 200px;
+    flex-shrink: 1;;
+}
+
+#last{
+    background-color: rgb(214, 198, 181);
+    flex-basis: 200px;
+    flex-shrink: 1;;
+}
+
+@media only screen and (min-width: 600px) {
+    body{
+        background-color: aqua;
+    }
+    
+    
+}
