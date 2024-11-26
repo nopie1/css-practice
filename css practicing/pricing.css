@@ -1,0 +1,35 @@
+body {
+    font-family: "Sono", sans-serif;
+    
+  
+  }
+
+ 
+#container{   
+     display: flex;
+  
+    gap: 10px;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+
+}
+@media (max-width: 1250px) {
+}
+
+#pricing-container{
+   
+      flex: 1;;
+      max-width: 300px;
+      padding: 20px;
+      background-color: #f2f2f2;
+      border-radius: 5px;
+      text-align: center;
+}
+
+#top{
+    font-size: 48px;
+    margin-bottom: 5px;
+    font-weight: bolder;
+}
