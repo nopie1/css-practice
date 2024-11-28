@@ -1,0 +1,46 @@
+body{
+
+    
+}
+
+@media (max-width: 2000px) {
+}
+
+.all{
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  
+    
+}
+
+ .section{
+    flex: 1;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px 0;
+    max-width: 200px;
+    height: 200px;
+}
+
+#unorderlist{
+    list-style: none;
+    position: relative;
+    right: 30px;
+}
+
+.top{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+button{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    text-align: center;
+    
+}
