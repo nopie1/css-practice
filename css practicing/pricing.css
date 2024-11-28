@@ -1,5 +1,5 @@
 body {
-    font-family: "Sono", sans-serif;
+    
     
   
   }
@@ -15,7 +15,7 @@ body {
 
 
 }
-@media (max-width: 1250px) {
+@media (max-width: 2000px) {
 }
 
 #pricing-container{
@@ -24,7 +24,8 @@ body {
       max-width: 300px;
       padding: 20px;
       background-color: #f2f2f2;
-      border-radius: 5px;
+      
+      border-radius: 10px;
       text-align: center;
 }
 
@@ -32,4 +33,23 @@ body {
     font-size: 48px;
     margin-bottom: 5px;
     font-weight: bolder;
+}
+
+
+
+#list{
+
+  color:rgb(29, 27, 27);
+  list-style: none;
+  padding: 0%;
+  margin: 0;
+  list-style: none;
+ 
+}
+
+.button{
+  background-color: rgb(35, 21, 156);
+  margin-top: 10px;
+  border-radius: 10px;
+  color: white;
 }
