@@ -1,0 +1,11 @@
+#all{
+background-color: aqua;
+display: grid;
+grid-template-columns: auto 400px minmax(200px , 500px );
+grid-template-rows: 40px 40px 80px 30px ;
+}
+
+.item{
+    background-color: blue;
+    border: solid rgb(150, 219, 11);
+}
