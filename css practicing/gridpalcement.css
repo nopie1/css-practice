@@ -1,0 +1,27 @@
+.container{
+    background-color: blueviolet;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr  1fr  ;
+  grid-template-rows: 1fr 1fr ;
+  gap: 20px red ;
+ font-size: 100px;
+ 
+    
+}
+.item{
+  
+   border: solid rgb(0, 255, 55) ;
+align-items: center;
+justify-content: center;
+
+display: flex;
+
+
+
+}
+.construction{
+   background-color: red;
+   font-size: 200px;
+   grid-area: 1/1/2/2;
+}
